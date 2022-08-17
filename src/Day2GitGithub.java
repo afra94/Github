@@ -16,10 +16,6 @@ public class Day2GitGithub {
          git push -u origin master
 NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız
- yeni ekleme
-yeni ekleme
 
-
- 1
-  */
+ */
 }
