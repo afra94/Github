@@ -17,6 +17,7 @@ public class Day2GitGithub {
 NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız
  not: github ogrendim
+ 6-)git pull-->remote(uzak repo) dosyalarimizi guncellemek icin
 
  */
     public static void main(String[] args) {
