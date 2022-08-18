@@ -16,7 +16,7 @@ public class Day2GitGithub {
          git push -u origin master/main
 NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra ikinci commit'lerim için sadece git push
 kullanırız
-
+ not: github ogrendim
 
  */
     public static void main(String[] args) {
